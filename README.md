@@ -7,7 +7,7 @@ Compartilho minha jornada de aprendizado no Medium e projetos de estudo de casos
 <br></br>
 ## Meus Artigos do Medium mais recentes 📚
 #### Google Data Analytics: Estudo de caso de análise de dados Bellabeat usando linguagem R 
-Como uma empresa de tecnologia de bem-estar pode agir com inteligência? Insights baseados em análise de dados que ajudarão a orientar a estratégia de marketing da empresa <a href="url">LEIA MAIS</a> 
+Como uma empresa de tecnologia de bem-estar pode agir com inteligência? Insights baseados em análise de dados que ajudarão a orientar a estratégia de marketing da empresa [LEIA MAIS](https://www.kaggle.com/code/fabiosilva6085/bellabeat-estudo-de-caso-usando-r) 
 
 
 ## Tecnologias aplicadas 💻
